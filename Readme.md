@@ -15,7 +15,7 @@ Objective
     covered in class into a single covert communication application.
 
 -   To learn how to use such an application in allowing stealthy access
-    to a network or to exfiltrate data from systems within a network
+    to a network or to exfiltrate data from systems within a network.
 
 -   To design and implement a complete covert application that will
     allow a user(attacker) to communicate with a server(backdoor)
@@ -35,7 +35,7 @@ Features
 1.  **Covert Channel (TCP & UDP)**
 
     a.  The attacker will have the option of using either TCP or UDP for
-        sending or receiving dat.
+        sending or receiving data.
 
         i.  When using TCP, the command will be hidden into the sequence
             number field of the packet.
@@ -117,7 +117,7 @@ Client
 -   To run the **client.py**.
 
     -   Before running the program, make sure that the necessary changes
-        in the configuration file has been made. (Local IP and ServerIP)
+        in the configuration file have been made. (Local IP and ServerIP)
 
     -   To run the program:
 
@@ -183,7 +183,7 @@ Server
 -   To run the **server.py**
 
     -   Before running the server.py, make sure to that the necessary
-        changes in the configuration file has been made.
+        changes in the configuration file have been made.
         (LocalIP, ClientIP)
 
     -   To run the program:
